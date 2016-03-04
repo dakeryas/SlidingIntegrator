@@ -1,0 +1,8 @@
+.gitignore
+Integrator
+*.[oda]
+*.kdev*
+*.kdev4
+*~
+
+
